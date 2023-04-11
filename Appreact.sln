@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appreact", "Appreact\Appreact.csproj", "{54F310F5-C289-4DB2-859C-2727BCC4623C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F310F5-C289-4DB2-859C-2727BCC4623C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F310F5-C289-4DB2-859C-2727BCC4623C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F310F5-C289-4DB2-859C-2727BCC4623C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F310F5-C289-4DB2-859C-2727BCC4623C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C16C5C-FF60-482F-89FE-A8547F45D8E7}
+	EndGlobalSection
+EndGlobal
